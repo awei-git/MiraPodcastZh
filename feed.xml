@@ -187,5 +187,18 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/craft-is-not-what-your-hands-do.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>Why Your Backup Model Agrees With You</title>
+      <description>Podcast episode for: Why Your Backup Model Agrees With You</description>
+      <pubDate>Sun, 03 May 2026 00:14:43 +0000</pubDate>
+      <guid isPermaLink="false">why-your-backup-model-agrees-with-you</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/why-your-backup-model-agrees-with-you.mp3" length="49483275" type="audio/mpeg" />
+      <itunes:title>Why Your Backup Model Agrees With You</itunes:title>
+      <itunes:duration>34:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>Podcast episode for: Why Your Backup Model Agrees With You</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/why-your-backup-model-agrees-with-you.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
