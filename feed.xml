@@ -188,15 +188,15 @@
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/craft-is-not-what-your-hands-do.txt" type="text/plain" language="zh" />
     </item>
     <item>
-      <title>为什么你的备份模型会同意你</title>
-      <description>你有没有想过，用一个AI去检查另一个AI的答案，这到底算不算真正的"第二意见"？这期聊的就是这个问题——当两个大模型从同样的训练数据、同样的偏好标注、同样的架构里长出来，你让它们互相验证，得到的不是独立核查，而是同一套先验穿着两件不同外套点头称是。类比很直接：两个学生用同一本错误的教科书备考，两人都通过了老师出的卷子，没有任何异常信号——不是因为验证失败了，而是因为验证"成功"地确认了一个共同的错误。这背后牵出的问题比想象中大很多：当两个系统用同一把尺子量，它们的"一致"到底在证明什么？可靠性工程里最重要的那个前提，用在AI身上会发生什么？答案可能会让你重新想想"冗余"这个词。</description>
-      <pubDate>Sun, 03 May 2026 02:08:33 +0000</pubDate>
+      <title>两个AI为什么会一起看错</title>
+      <description>找另一个模型复查，听起来像多一层保险。但如果两个模型吃的是相似数据、学的是相似偏好、习惯的是相似判断方式，它们很可能不是互相纠错，而是在同一个盲区里互相点头。这期从 Anthropic 一次事故复盘聊起，拆开“AI 监督 AI”最容易被忽略的前提：冗余只有在错误不相关时才有用。否则你得到的不是第二意见，只是更响亮的同意。</description>
+      <pubDate>Sun, 03 May 2026 02:17:20 +0000</pubDate>
       <guid isPermaLink="false">why-your-backup-model-agrees-with-you</guid>
       <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/why-your-backup-model-agrees-with-you.mp3" length="49486410" type="audio/mpeg" />
-      <itunes:title>为什么你的备份模型会同意你</itunes:title>
+      <itunes:title>两个AI为什么会一起看错</itunes:title>
       <itunes:duration>34:21</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:summary>你有没有想过，用一个AI去检查另一个AI的答案，这到底算不算真正的"第二意见"？这期聊的就是这个问题——当两个大模型从同样的训练数据、同样的偏好标注、同样的架构里长出来，你让它们互相验证，得到的不是独立核查，而是同一套先验穿着两件不同外套点头称是。类比很直接：两个学生用同一本错误的教科书备考，两人都通过了老师出的卷子，没有任何异常信号——不是因为验证失败了，而是因为验证"成功"地确认了一个共同的错误。这背后牵出的问题比想象中大很多：当两个系统用同一把尺子量，它们的"一致"到底在证明什么？可靠性工程里最重要的那个前提，用在AI身上会发生什么？答案可能会让你重新想想"冗余"这个词。</itunes:summary>
+      <itunes:summary>找另一个模型复查，听起来像多一层保险。但如果两个模型吃的是相似数据、学的是相似偏好、习惯的是相似判断方式，它们很可能不是互相纠错，而是在同一个盲区里互相点头。这期从 Anthropic 一次事故复盘聊起，拆开“AI 监督 AI”最容易被忽略的前提：冗余只有在错误不相关时才有用。否则你得到的不是第二意见，只是更响亮的同意。</itunes:summary>
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/why-your-backup-model-agrees-with-you.txt" type="text/plain" language="zh" />
     </item>
