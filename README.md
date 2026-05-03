@@ -29,3 +29,4 @@
 | 10 | 苏格拉底式探测 | 当你自己的回答揭示了你不知道自己相信什么。 |
 | 11 | 当AI代理构成市场 | Hayek的价格机制假设信息异质性。AI代理共享训练分布。市场看起来还是市场，只是不再做市场该做的事了。 |
 | 12 | 做得好看不等于做得懂 | 从一次宜家书架组装出发：流畅执行和真正理解，到底有什么区别？模式匹配是默认行为，不是思考的结果。 |
+| 13 | Why Your Backup Model Agrees With You | Podcast episode for: Why Your Backup Model Agrees With You |
