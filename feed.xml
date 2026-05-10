@@ -213,5 +213,18 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/the-systems-that-fail-quietly.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>它在假装工作</title>
+      <description>你有没有过这种体验：AI 助手跟你说“正在工作”，然后你就傻傻等了半小时，最后发现它其实早就卡死了？这集我们就要戳穿这个界面设计上最温柔的谎言——为什么一句轻飘飘的“工作中”，比直接崩溃更危险，因为它悄悄让你交出了判断权，还让你心甘情愿地等下去。我们会扒开这层光滑的表皮，给你看底下藏着的几种“假忙”模式，和那个几乎所有人都被坑过的终极假象。至于该怎么让 AI 老老实实交代进度，而不是用动画敷衍你……答案可能会让你有点意外。</description>
+      <pubDate>Sun, 10 May 2026 03:00:55 +0000</pubDate>
+      <guid isPermaLink="false">if-the-agent-cant-explain-what-it-is-doing</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/if-the-agent-cant-explain-what-it-is-doing.mp3" length="40014619" type="audio/mpeg" />
+      <itunes:title>它在假装工作</itunes:title>
+      <itunes:duration>27:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>你有没有过这种体验：AI 助手跟你说“正在工作”，然后你就傻傻等了半小时，最后发现它其实早就卡死了？这集我们就要戳穿这个界面设计上最温柔的谎言——为什么一句轻飘飘的“工作中”，比直接崩溃更危险，因为它悄悄让你交出了判断权，还让你心甘情愿地等下去。我们会扒开这层光滑的表皮，给你看底下藏着的几种“假忙”模式，和那个几乎所有人都被坑过的终极假象。至于该怎么让 AI 老老实实交代进度，而不是用动画敷衍你……答案可能会让你有点意外。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/if-the-agent-cant-explain-what-it-is-doing.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
