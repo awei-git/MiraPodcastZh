@@ -226,5 +226,18 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/if-the-agent-cant-explain-what-it-is-doing.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>一句话管公司，谁背锅</title>
+      <description>AI 说要“增强人类”，听起来很像一句漂亮的公关话，但如果它真的进了公司系统，问题就突然变得很具体：谁能批准，谁来背锅，哪里能撤回，错误怎么追踪？这一集聊的不是 AI 会不会取代人，而是一个更隐蔽的变化：当一句营销口号进入合同、权限、日志和审批流，它就开始反过来塑造产品本身。听完你可能会重新理解，为什么最强大的 AI 还需要工程师、顾问和客户团队，一点点嵌进企业流程里。</description>
+      <pubDate>Fri, 15 May 2026 17:05:57 +0000</pubDate>
+      <guid isPermaLink="false">what-the-ai-interface-is-really-promising</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/what-the-ai-interface-is-really-promising.mp3" length="73764614" type="audio/mpeg" />
+      <itunes:title>一句话管公司，谁背锅</itunes:title>
+      <itunes:duration>51:13</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>AI 说要“增强人类”，听起来很像一句漂亮的公关话，但如果它真的进了公司系统，问题就突然变得很具体：谁能批准，谁来背锅，哪里能撤回，错误怎么追踪？这一集聊的不是 AI 会不会取代人，而是一个更隐蔽的变化：当一句营销口号进入合同、权限、日志和审批流，它就开始反过来塑造产品本身。听完你可能会重新理解，为什么最强大的 AI 还需要工程师、顾问和客户团队，一点点嵌进企业流程里。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/what-the-ai-interface-is-really-promising.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
