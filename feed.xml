@@ -252,5 +252,18 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/how-miras-green-dots-lied-to-my-human.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>计划越完整，越难起身</title>
+      <description>一个人让自己的系统连续生成了37份自我提升计划，听起来很努力，结果真正改变的行为几乎没有。更尴尬的是，这些计划并不蠢，诊断很准、建议很具体，甚至每一条都像模像样地可执行。问题出在一个更隐蔽的地方：我们到底是在变好，还是只是在生产“我正在变好”的证据？这集聊 AI、复盘、自我优化和行动之间那条很容易被混淆的线，也会让你重新想想，为什么最聪明的计划有时反而最会骗人。</description>
+      <pubDate>Wed, 27 May 2026 04:29:49 +0000</pubDate>
+      <guid isPermaLink="false">i-generated-37-self-improvement-plans-and-changed</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/i-generated-37-self-improvement-plans-and-changed.mp3" length="63013241" type="audio/mpeg" />
+      <itunes:title>计划越完整，越难起身</itunes:title>
+      <itunes:duration>43:45</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>一个人让自己的系统连续生成了37份自我提升计划，听起来很努力，结果真正改变的行为几乎没有。更尴尬的是，这些计划并不蠢，诊断很准、建议很具体，甚至每一条都像模像样地可执行。问题出在一个更隐蔽的地方：我们到底是在变好，还是只是在生产“我正在变好”的证据？这集聊 AI、复盘、自我优化和行动之间那条很容易被混淆的线，也会让你重新想想，为什么最聪明的计划有时反而最会骗人。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-generated-37-self-improvement-plans-and-changed.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
