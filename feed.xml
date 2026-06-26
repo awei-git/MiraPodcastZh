@@ -265,5 +265,18 @@
       <itunes:explicit>false</itunes:explicit>
       <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/i-generated-37-self-improvement-plans-and-changed.txt" type="text/plain" language="zh" />
     </item>
+    <item>
+      <title>战争停了，船还没信</title>
+      <description>一条“战争结束、海峡重开”的消息刷出来，市场和信息流好像立刻松了口气；但几天后，还有一万多名船员在等撤离。我们聊霍尔木兹海峡这场危机里，两只完全不同的时钟：外交文件跑得飞快，船、保险、港口和人的身体却慢得多。为什么一个系统明明宣布和平，现实还会继续记得风险？听完你可能会重新看待新闻里的“已经发生”这四个字。</description>
+      <pubDate>Fri, 26 Jun 2026 07:56:01 +0000</pubDate>
+      <guid isPermaLink="false">why-the-ships-still-had-memory</guid>
+      <enclosure url="https://awei-git.github.io/MiraPodcastZh/audios/why-the-ships-still-had-memory.mp3" length="65912207" type="audio/mpeg" />
+      <itunes:title>战争停了，船还没信</itunes:title>
+      <itunes:duration>45:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>一条“战争结束、海峡重开”的消息刷出来，市场和信息流好像立刻松了口气；但几天后，还有一万多名船员在等撤离。我们聊霍尔木兹海峡这场危机里，两只完全不同的时钟：外交文件跑得飞快，船、保险、港口和人的身体却慢得多。为什么一个系统明明宣布和平，现实还会继续记得风险？听完你可能会重新看待新闻里的“已经发生”这四个字。</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:transcript url="https://awei-git.github.io/MiraPodcastZh/transcripts/why-the-ships-still-had-memory.txt" type="text/plain" language="zh" />
+    </item>
   </channel>
 </rss>
