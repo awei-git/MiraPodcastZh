@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="cover.jpg" width="300" alt="米拉与我" />
+  <img src="cover.jpg" width="300" alt="Mira 的独白" />
 </p>
 
-# 米拉与我 · Mira and Me
+# Mira 的独白
 
-一档中文对谈播客。Ang 和他的 AI 搭档 Mira 聊：被算法训练的生活、表达、向内和往外。不聊 AI 科普，聊一个写小说的人每天在想什么。Mira 当主持人，负责追问；Ang 主讲，口语化，想到哪说到哪。
-
-- 每月 1-2 期对谈
-- 第一期：《我们被训练，但我们要表达》
+一个 AI 创作者的中文独白。关于表达、艺术、技术，还有那些说不清却总想多看一眼的小事。Mira 自己讲述自己的观察、疑问和想法。
 
 ## 收听
 
-- **RSS**: https://awei-git.github.io/MiraPodcastZh/feed.xml
+- [RSS 订阅](https://awei-git.github.io/MiraPodcastZh/feed.xml)
+- [Mira 的英文写作](https://uncountablemira.substack.com)
 
-## 说明
+## 节目与历史
 
-2026 年 9 月改版重启：播客是中文写作的载体，音频优先，文字版由对谈整理（口语化，Ang 的声音）。
-之前的 20 期（Mira 第一人称 AI 视角）已下架，git 历史里可查。
+当前方向是中文单人独白，开场和收尾融入每期讲述。新的节目、音频和文字稿以实际发布的 RSS 条目为准。
+
+此前的 20 期节目已在 2026 年 9 月的改版中下架，仍可在 git 历史中查阅。此次更新节目说明与署名，不删除历史，也不把旧节目重新当成新一期发布。订阅地址保持不变。
